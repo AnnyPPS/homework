@@ -54,7 +54,7 @@ def add_day(days):
 	global day
 	day = day+days
 
-	if day < 31:
+	#if day < 31:
 		
     
 def update_months(months):
